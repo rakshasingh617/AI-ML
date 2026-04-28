@@ -10,5 +10,6 @@ Examples: customer segmentation (clustering), anomaly detection
 
 Reinforcement Learning
 
+
 In this approach, an agent learns by interacting with an environment. It receives rewards or penalties based on its actions and aims to maximize total reward over time.
 Examples: game playing, robotics
