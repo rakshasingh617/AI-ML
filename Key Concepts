@@ -1,0 +1,17 @@
+Features
+
+Features are the input variables used by the model to make predictions. They represent the characteristics of the data.
+Example: In house price prediction—size, location, number of rooms
+
+Label / Target
+
+The label (or target) is the output variable the model is trying to predict.
+Example: House price
+
+Model
+
+A model is a mathematical function or algorithm that maps inputs (features) to outputs (predictions). It learns patterns during training.
+
+Training
+
+Training is the process where the model learns from data by adjusting its parameters to minimize errors.
