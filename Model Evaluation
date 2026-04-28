@@ -1,0 +1,11 @@
+Accuracy
+
+The ratio of correctly predicted instances to total instances. Works best when classes are balanced.
+
+Precision & Recall
+Precision: How many predicted positives are actually correct
+Recall: How many actual positives were correctly identified
+Useful in cases like fraud detection or medical diagnosis.
+Train/Test Split
+
+The dataset is divided into training and testing sets. The model learns from the training set and is evaluated on the test set to check its performance on unseen data.
