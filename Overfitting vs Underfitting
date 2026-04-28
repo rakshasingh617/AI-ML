@@ -1,0 +1,7 @@
+Overfitting
+
+Occurs when the model learns not only the patterns but also the noise in the training data. It performs very well on training data but poorly on new, unseen data.
+
+Underfitting
+
+Occurs when the model is too simple to capture the underlying patterns in the data. It performs poorly on both training and test data.
