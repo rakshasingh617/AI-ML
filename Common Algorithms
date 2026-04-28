@@ -14,6 +14,7 @@ K-Nearest Neighbors (KNN)
 
 Classifies data points based on the majority class of their nearest neighbors.
 
+
 Support Vector Machines (SVM)
 
 Finds the optimal boundary (hyperplane) that separates different classes.
