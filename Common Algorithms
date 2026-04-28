@@ -1,0 +1,19 @@
+Linear Regression
+
+Used for predicting continuous values by fitting a straight line to the data.
+
+Logistic Regression
+
+Used for classification problems, especially binary classification (e.g., yes/no).
+
+Decision Trees
+
+A tree-like model that splits data based on conditions to make decisions.
+
+K-Nearest Neighbors (KNN)
+
+Classifies data points based on the majority class of their nearest neighbors.
+
+Support Vector Machines (SVM)
+
+Finds the optimal boundary (hyperplane) that separates different classes.
