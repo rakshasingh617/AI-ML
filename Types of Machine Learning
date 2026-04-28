@@ -1,0 +1,14 @@
+Supervised Learning
+
+In supervised learning, the model is trained using labeled data, meaning each input has a known output. The goal is to learn a mapping from inputs to outputs.
+Examples: spam detection (classification), house price prediction (regression)
+
+Unsupervised Learning
+
+Here, the data has no labels. The model tries to find hidden patterns or structures within the data.
+Examples: customer segmentation (clustering), anomaly detection
+
+Reinforcement Learning
+
+In this approach, an agent learns by interacting with an environment. It receives rewards or penalties based on its actions and aims to maximize total reward over time.
+Examples: game playing, robotics
